@@ -1,3 +1,4 @@
+About Me💫
 Hi, I'm Chirag!<br><br>I'm a Flutter Developer passionate about creating awesome mobile apps. I specialize in building apps using state management tools and integrating Shared Preferences for a seamless user experience.<br><br>I enjoy coding in Dart and continually learning the latest trends in mobile development. I'm always open to discussing Flutter, app development, or any tech topics.<br><br>Feel free to reach out or connect!<br><br>- **Email:** cmrajpurohit129@gmail.com<br>- **LinkedIn:** https://www.linkedin.com/in/chirag-rajpurohit/<br>
 
 
